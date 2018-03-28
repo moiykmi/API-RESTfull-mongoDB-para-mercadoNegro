@@ -1,0 +1,949 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"diferenciaDolar"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"dol",
+				"dolar2"
+			],
+			[
+				"f",
+				"file_name"
+			],
+			[
+				"s",
+				"send"
+			],
+			[
+				"im",
+				"imagen"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"ima",
+				"imagenFile"
+			],
+			[
+				"ge",
+				"getImagen"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"fil",
+				"file_split"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"i",
+				"imageUpdate"
+			],
+			[
+				"er",
+				"err"
+			],
+			[
+				"fin",
+				"findByIdAndUpdate"
+			],
+			[
+				"mul",
+				"multipartMiddleware"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"file_",
+				"file_path"
+			],
+			[
+				"fe",
+				"file_name"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"u",
+				"upload"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"pro",
+				"producto"
+			],
+			[
+				"p",
+				"producto2"
+			],
+			[
+				"_",
+				"_home"
+			],
+			[
+				"a",
+				"agregar"
+			],
+			[
+				"va",
+				"valor"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"St",
+				"string"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"producto",
+				"producto-detail"
+			],
+			[
+				"pr",
+				"ProductoDetailComponent"
+			],
+			[
+				"pa",
+				"param"
+			],
+			[
+				"de",
+				"deleteProducto"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Pro",
+				"ProductoListComponent"
+			],
+			[
+				"proo",
+				"producto"
+			],
+			[
+				"usaur",
+				"usuario"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"usau",
+				"usuario"
+			],
+			[
+				"Usaurio",
+				"Usuario"
+			],
+			[
+				"Usaur",
+				"Usuario"
+			],
+			[
+				"usuario",
+				"usuario"
+			],
+			[
+				"Usau",
+				"Usuario"
+			],
+			[
+				"usaurio",
+				"usaurio"
+			],
+			[
+				"fr",
+				"frutaId"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"fru",
+				"frutaId"
+			],
+			[
+				"m",
+				"menssage"
+			],
+			[
+				"F",
+				"FrutaSchema"
+			],
+			[
+				"from",
+				"form-inline"
+			],
+			[
+				"rt",
+				"result"
+			],
+			[
+				"VA",
+				"var_dump"
+			],
+			[
+				"isValid",
+				"isValidUser"
+			],
+			[
+				"clie",
+				"cliente"
+			],
+			[
+				"usa",
+				"usuario"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"uau",
+				"Usuario"
+			],
+			[
+				"r",
+				"_router"
+			],
+			[
+				"h",
+				"HttpModule"
+			],
+			[
+				"U",
+				"UsuarioService"
+			],
+			[
+				"e",
+				"ErrorComponent"
+			],
+			[
+				"R",
+				"routing"
+			],
+			[
+				"ro",
+				"Router"
+			],
+			[
+				"fo",
+				"FormsModule"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"cen",
+				"justify-content-md-center"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"E",
+				"EventEmitter"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"btn",
+				"btn-danger"
+			],
+			[
+				"rs",
+				"res"
+			],
+			[
+				"he",
+				"Headers"
+			],
+			[
+				"x",
+				"x-www-form-urlencoded"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"P",
+				"Producto"
+			],
+			[
+				"Pr",
+				"Producto"
+			],
+			[
+				"Prod",
+				"ProductoEditComponent"
+			],
+			[
+				"PR",
+				"ProductoService"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"res",
+				"Response"
+			],
+			[
+				"for",
+				"formData"
+			],
+			[
+				"produc",
+				"producto"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"productos",
+				"productos-list"
+			],
+			[
+				"app",
+				"appRoutingProviders"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"tec",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"up",
+				"upload"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"error",
+				"error"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"prec",
+				"precio"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"err",
+				"errorMenssage"
+			],
+			[
+				"H",
+				"Http"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"Co",
+				"Coche"
+			],
+			[
+				"coc",
+				"coche"
+			],
+			[
+				"coches",
+				"coches"
+			],
+			[
+				"C",
+				"ConversorPipe"
+			],
+			[
+				"v",
+				"value_one"
+			],
+			[
+				"Pi",
+				"PipeTransform"
+			],
+			[
+				"rop",
+				"_ropaService"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/www/mercadoNegro/src/app/views/indicadores.html",
+			"settings":
+			{
+				"buffer_size": 945,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/mercadoNegro/src/app/components/usuario.component.ts",
+			"settings":
+			{
+				"buffer_size": 187,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "import {Component} from '@angular/core';\nimport {Router , ActivatedRoute , Params} from '@angular/router';\nimport {ValoresService} from '../services/valores.service';\n\n\n@Component({\n\tselector : 'indicadores',\n\ttemplateUrl : '../views/indicadores.html',\n\tproviders : [ValoresService]\n})\n\nexport class IndicadoresComponent{\n\tpublic dolar : number;\n\tpublic uf:number;\n\tpublic tipo:string;\n\tpublic utm:number;\n\tpublic diferenciaDolar:number;\n\tpublic diferenciaUf:number;\n\tpublic diferenciaUtm:number;\n\n\n\tconstructor(\n\t\tprivate _valoresService:ValoresService,\n\t\tprivate _route:ActivatedRoute,\n\t\tprivate _router : Router\n\t\t){\n\t}\n\n\tngOnInit(){\n\t\tconsole.log('indicadores.component cargado');\n\t\tthis.getDolar();\n\t\tthis.getUF();\n\t\tthis.getUTM();\n\n\t}\n\n\n\tgetDolar(){\n\t\tthis.tipo= \"dolar\";\n\t\t\tthis._valoresService.obtenerValor(this.tipo).subscribe(\n\t\t\t\tresponse =>{\n\t\t\t\t\t\t\n\t\t\t\t\t\tthis.dolar=response.serie[0].valor;\n\n\t\t\t\t\t},\n\t\t\t\t\terror =>{\n\t\t\t\t\t\tconsole.log(<any>error);\n\t\t\t\t\t}\n\t\t\t);\n\t\t\tthis._valoresService.obtenerValorDiaAnterior(this.tipo).subscribe(\n\t\t\t\tresponse =>{\n\t\t\t\t\t\t\n\t\t\t\t\t\tvar dolar2=response.serie[0].valor;\t\t\t\t\t\t\n\t\t\t\t\t\tthis.diferenciaDolar=Math.round10(this.dolar - dolar2,-2);\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t},\n\t\t\t\t\terror =>{\n\t\t\t\t\t\tconsole.log(<any>error);\n\t\t\t\t\t}\n\t\t\t);\n\t}\n\n\tgetUF(){\n\t\tthis.tipo= \"uf\";\n\t\t\tthis._valoresService.obtenerValor(this.tipo).subscribe(\n\t\t\t\tresponse =>{\n\t\t\t\t\t\tthis.uf=response.serie[0].valor;\n\t\t\t\t\t\t\n\t\t\t\t\t},\n\t\t\t\t\terror =>{\n\t\t\t\t\t\tconsole.log(<any>error);\n\t\t\t\t\t}\n\t\t\t);\n\t\t\tthis._valoresService.obtenerValorDiaAnterior(this.tipo).subscribe(\n\t\t\t\tresponse =>{\n\t\t\t\t\t\t\n\t\t\t\t\t\tvar uf2=response.serie[0].valor;\n\t\t\t\t\t\tthis.diferenciaUf= this.uf - uf2;\n\t\t\t\t\t\t\n\t\t\t\t\t},\n\t\t\t\t\terror =>{\n\t\t\t\t\t\tconsole.log(<any>error);\n\t\t\t\t\t}\n\t\t\t);\n\t}\n\n\tgetUTM(){\n\t\tthis.tipo= \"utm\";\n\t\t\tthis._valoresService.obtenerValor(this.tipo).subscribe(\n\t\t\t\tresponse =>{\n\t\t\t\t\t\t\n\t\t\t\t\t\tthis.utm=response.serie[0].valor;\n\t\t\t\t\t\t\n\t\t\t\t\t},\n\t\t\t\t\terror =>{\n\t\t\t\t\t\tconsole.log(<any>error);\n\t\t\t\t\t}\n\t\t\t);\n\t\t\tthis._valoresService.obtenerValorDiaAnterior(this.tipo).subscribe(\n\t\t\t\tresponse =>{\n\t\t\t\t\t\t\n\t\t\t\t\t\tvar utm2=response.serie[0].valor;\n\t\t\t\t\t\tthis.diferenciaUtm= this.utm - utm2;\n\t\t\t\t\t\t\n\t\t\t\t\t},\n\t\t\t\t\terror =>{\n\t\t\t\t\t\tconsole.log(<any>error);\n\t\t\t\t\t}\n\t\t\t);\n\t}\n}\n\n// Conclusión\n(function() {\n  /**\n   * Ajuste decimal de un número.\n   *\n   * @param {String}  tipo  El tipo de ajuste.\n   * @param {Number}  valor El numero.\n   * @param {Integer} exp   El exponente (el logaritmo 10 del ajuste base).\n   * @returns {Number} El valor ajustado.\n   */\n  function decimalAdjust(type, value, exp) {\n    // Si el exp no está definido o es cero...\n    if (typeof exp === 'undefined' || +exp === 0) {\n      return Math[type](value);\n    }\n    value = +value;\n    exp = +exp;\n    // Si el valor no es un número o el exp no es un entero...\n    if (isNaN(value) || !(typeof exp === 'number' && exp % 1 === 0)) {\n      return NaN;\n    }\n    // Shift\n    value = value.toString().split('e');\n    value = Math[type](+(value[0] + 'e' + (value[1] ? (+value[1] - exp) : -exp)));\n    // Shift back\n    value = value.toString().split('e');\n    return +(value[0] + 'e' + (value[1] ? (+value[1] + exp) : exp));\n  }\n\n  // Decimal round\n  if (!Math.round10) {\n    Math.round10 = function(value, exp) {\n      return decimalAdjust('round', value, exp);\n    };\n  }\n  // Decimal floor\n  if (!Math.floor10) {\n    Math.floor10 = function(value, exp) {\n      return decimalAdjust('floor', value, exp);\n    };\n  }\n  // Decimal ceil\n  if (!Math.ceil10) {\n    Math.ceil10 = function(value, exp) {\n      return decimalAdjust('ceil', value, exp);\n    };\n  }\n})();\n",
+			"file": "/C/wamp/www/mercadoNegro/src/app/components/indicadores.component.ts",
+			"file_size": 3747,
+			"file_write_time": 131665445684463583,
+			"settings":
+			{
+				"buffer_size": 3580,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/mercadoNegro/src/app/services/valores.service.ts",
+			"settings":
+			{
+				"buffer_size": 1151,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/wamp/www/curso-mongo-backend/routes/producto.js",
+		"/C/wamp/www/curso-mongo-backend/controllers/producto.js",
+		"/C/wamp/www/mercadoNegro/src/app/views/producto-detail.html",
+		"/C/wamp/www/mercadoNegro/src/app/components/producto-edit.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/components/producto-add.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/services/producto.service.ts",
+		"/C/wamp/www/mercadoNegro/src/app/views/producto-add.html",
+		"/C/wamp/www/curso-angular4-webapp/src/app/components/producto-add.component.ts",
+		"/C/wamp/www/curso-angular4-webapp/src/app/services/global.ts",
+		"/C/wamp/www/curso-angular4-webapp/src/app/views/producto-add.html",
+		"/C/wamp/www/mercadoNegro/src/app/views/producto-list.html",
+		"/C/wamp/www/curso-mongo-backend/models/producto.js",
+		"/C/wamp/www/curso-angular4-webapp/src/app/views/productos-list.html",
+		"/C/wamp/www/curso-angular4-webapp/src/app/components/productos-list.component.ts",
+		"/C/wamp/www/curso-mongo-backend/models/image.js",
+		"/C/wamp/www/curso-mongo-backend/recursos/88ikczJv2T3NskWLeJ_TD_QN.jpg",
+		"/C/wamp/www/curso-mongo-backend/package.json",
+		"/C/wamp/www/mercadoNegro/src/app/app.routing.ts",
+		"/C/wamp/www/cursoAngular4-Backend/index.php",
+		"/C/wamp/www/curso-angular4-webapp/src/app/services/producto.service.ts",
+		"/C/wamp/www/cursoAngular4-Backend/piramide-uploader/example.php",
+		"/C/wamp/www/curso-mongo-backend/index.js",
+		"/C/wamp/www/curso-mongo-backend/app.js",
+		"/C/wamp/www/mercadoNegro/src/app/components/producto-list.component.ts",
+		"/C/wamp/www/curso-mongo-backend/package-lock.json",
+		"/C/wamp/www/curso-angular4-webapp/src/app/components/producto-detail.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/views/cliente-add.html",
+		"/C/wamp/www/curso-angular4-webapp/src/app/components/producto-edit.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/views/login.html",
+		"/C/wamp/www/curso-mongo-backend/controllers/usuario.js",
+		"/C/wamp/www/mercadoNegro/src/app/services/valores.service.ts",
+		"/C/wamp/www/mercadoNegro/src/app/views/error.html",
+		"/C/wamp/www/mercadoNegro/src/app/components/home.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/views/indicadores.html",
+		"/C/wamp/www/mercadoNegro/src/app/views/home.html",
+		"/C/wamp/www/mercadoNegro/src/index.html",
+		"/C/wamp/www/curso-mongo-backend/routes/ejemplo.js",
+		"/C/wamp/www/mercadoNegro/src/app/models/producto.ts",
+		"/C/wamp/www/mercadoNegro/src/app/app.module.ts",
+		"/C/wamp/www/mercadoNegro/src/app/components/indicadores.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/components/producto-detail.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/components/login.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/components/cliente-add.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/views/productos-list.html",
+		"/C/wamp/www/curso-mongo-backend/models/usuario.js",
+		"/C/wamp/www/mercadoNegro/src/app/services/usuario.service.ts",
+		"/C/wamp/www/curso-mongo-backend/routes/usuario.js",
+		"/C/wamp/www/mercadoNegro/src/app/models/cliente.ts",
+		"/C/wamp/www/curso-mongo-backend/routes/fruta.js",
+		"/C/wamp/www/curso-mongo-backend/controllers/fruta.js",
+		"/C/wamp/www/curso-mongo-backend/models/fruta.js",
+		"/C/wamp/www/curso-mongo-backend/node_modules/express/lib/router/index.js",
+		"/C/wamp/www/curso-mongo-backend/node_modules/express/lib/router/route.js",
+		"/C/wamp/www/curso-mongo-backend/curso-mongo-backend.sublime-project",
+		"/C/wamp/www/mercadoNegro/src/tsconfig.spec.json",
+		"/C/wamp/www/mercadoNegro/src/app/app.component.html",
+		"/C/wamp/www/curso-angular4-webapp/src/app/views/home.html",
+		"/C/wamp/www/mercadoNegro/src/tsconfig.app.json",
+		"/C/wamp/www/mercadoNegro/src/app/views/usuario-add.html",
+		"/C/wamp/www/curso-angular4-webapp/src/app/models/producto.ts",
+		"/C/wamp/www/cursoAngular4-Backend/bbdd.sql",
+		"/C/wamp/www/curso-angular4-webapp/src/app/app.module.ts",
+		"/C/wamp/www/curso-angular4-webapp/src/app/app.component.html",
+		"/C/wamp/www/mercadoNegro/src/app/components/error.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/app.component.ts",
+		"/C/wamp/www/curso-angular4-webapp/src/app/app.component.ts",
+		"/C/wamp/www/mercadoNegro/src/app/views/usuario.html",
+		"/C/wamp/www/mercadoNegro/src/app/components/usuario.component.ts",
+		"/C/wamp/www/curso-angular4-webapp/src/index.html",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/app.module.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/plantillas/plantillas.component.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/plantillas/plantillas.component.html",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/hijo/hijo.component.ts",
+		"/C/wamp/www/curso-angular4-webapp/src/app/app.routing.ts",
+		"/C/wamp/www/curso-angular4-webapp/src/assets/styles.css",
+		"/C/wamp/www/curso-angular4-webapp/src/app/components/producto-delete.component.ts",
+		"/C/wamp/www/curso-angular4-webapp/src/app/views/error.html",
+		"/C/wamp/www/curso-angular4-webapp/src/app/views/producto-detail.html",
+		"/C/wamp/www/curso-angular4-webapp/src/app/components/home.component.ts",
+		"/C/wamp/www/curso-angular4-webapp/src/app/components/error.component.ts",
+		"/C/wamp/www/curso-angular4-webapp/src/assets/style.css",
+		"/C/wamp/www/cursoAngular4-Backend/composer.json",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/coches/coche.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/services/peticiones.service.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/app.routing.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/app.component.html",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/coches/coches.component.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/coches/coches.component.html",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/empleado/empleado.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/coches/coches.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/services/ropa.service.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/home/home.component.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/pipes/conversor.pipe.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/home/home.component.html",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/contacto/contacto.component.html",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/contacto/contacto.component.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/empleado/empleado.component.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/index.html",
+		"/C/proyectosWEB/angular4Ejercicio1/src/assets/style.css",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/empleado/empleado.component.html",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/fruta/fruta.component.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/app.component.spec.ts",
+		"/C/proyectosWEB/angular4Ejercicio1/src/app/app.component.css",
+		"/C/proyectoAngularCLI/angular4Ejercicio1/.editorconfig",
+		"/C/proyectoAngularCLI/angular4Ejercicio1/.angular-cli.json",
+		"/C/proyectoAngularCLI/angular4Ejercicio1/src/main.ts",
+		"/C/proyectoAngularCLI/angular4Ejercicio1/src/index.html",
+		"/C/Users/Reemplazo/Documents/ejercicios angular/primer ejercicio/index.html",
+		"/C/Users/Reemplazo/Documents/ejercicios angular/primer ejercicio/tomandoElControl.html",
+		"/C/Users/Reemplazo/Documents/ejercicios angular/primer ejercicio/variosControlers.html",
+		"/C/Users/Reemplazo/Documents/ejercicios angular/primer ejercicio/module.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"db",
+			");\t",
+			"\t\t\t\n",
+			"\"   ",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/mercadoNegro/src/app/views/indicadores.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/mercadoNegro/src/app/components/usuario.component.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp/www/mercadoNegro/src/app/components/indicadores.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2511,
+								2524
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1059.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp/www/mercadoNegro/src/app/services/valores.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1071,
+								1071
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-mongo-backend.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
